@@ -9,6 +9,7 @@ These labs will guide you through a series of exercises using sensors and actuat
 These examples are written in C++ and can be compiled with the Arduino Create developer environment, Intel System Studio or with GCC.
 
 * [Introduction to the MRAA and UPM libraries](https://github.com/SSG-DRD-IOT/lab-overview-mraa-and-upm-libraries/)
+* [Ultrasound Sensor Lab - MRAA, UPM vs C++](https://github.com/SSG-DRD-IOT/ultrasound_sensor/)
 * [Digital GPIO Example](https://github.com/SSG-DRD-IOT/lab-digital-sensors-arduino)
 * [PWM Example](https://github.com/SSG-DRD-IOT/lab-pwm-sensors-arduino)
 * [I<sup>2</sup>C LCD Example](https://github.com/SSG-DRD-IOT/lab-lcd-arduino)
