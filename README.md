@@ -18,6 +18,6 @@ Below labs can be done with the UP2 Groove IoT Development Kit Sensors.
 * [Temperature sensors](https://github.com/SSG-DRD-IOT/lab-temperature-humidity-arduino)
 * [Rotary Angle sensors](https://github.com/SSG-DRD-IOT/lab-rotary-angle-sensor-c)
 
-Following lab has been prepared to demonstrate the difference between using C++ compared to UPM/MRAA libaries respectively, which requires you to have HC04-SR Ultrasound sensor. 
+Following lab has been prepared to demonstrate the difference between using C++ compared to UPM/MRAA libaries respectively, which requires you to have HCSR-04 Ultrasound sensor. 
 
 * [Ultrasound Sensor Lab - MRAA, UPM vs C++](https://github.com/SSG-DRD-IOT/ultrasound_sensor/)
